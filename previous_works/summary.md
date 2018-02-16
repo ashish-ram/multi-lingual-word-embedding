@@ -16,5 +16,3 @@
 # Data Sets:
 **A compiled list can be found in the google word2vec page**
 	1. Wiki data dump: 
-
-376381, Ashish Kumar Ram, Titel 94/01063
